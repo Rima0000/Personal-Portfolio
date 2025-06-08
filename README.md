@@ -2,11 +2,11 @@
 > A sleek and responsive personal portfolio website built using HTML, CSS, and JavaScript to showcase my projects, skills, and contact information.
 
 
-🚀 Project Overview
+## 🚀 Project Overview
 This portfolio is designed to highlight my work and skills with a clean and modern interface. It is fully responsive and works smoothly across all devices.
 
 
-✨ Features
+## ✨ Features
 - Responsive layout for desktop and mobile 📱💻
 - Interactive navigation and smooth scrolling ✨
 - Showcase of projects with descriptions and links 🔗
